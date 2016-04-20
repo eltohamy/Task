@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all"
+            android:checkable="true"
+            android:icon="@drawable/ic_all"
+            android:title="@string/all" />
+        <item
+            android:id="@+id/nav_appetizer"
+            android:icon="@drawable/ic_appetizer"
+            android:title="@string/appetizer" />
+        <item
+            android:id="@+id/nav_main_course"
+            android:icon="@drawable/ic_main_course"
+            android:title="@string/main_course" />
+        <item
+            android:id="@+id/nav_drink"
+            android:icon="@drawable/ic_drink"
+            android:title="@string/drink" />
+    </group>
+
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#292641</color>
+    <color name="colorPrimaryDark">#191828</color>
+    <color name="colorAccent">#B3965A</color>
+    <color name="dark">#D9D9D9</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="snack_error">#ce1515</color>
+    <color name="snack_success">#06ac54</color>
+    <color name="snack_dismiss">#2e83bf</color>
+
+</resources>
